@@ -1,0 +1,11 @@
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\bin\Debug\netcoreapp2.0\Middle_app.deps.json
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\bin\Debug\netcoreapp2.0\Middle_app.runtimeconfig.json
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\bin\Debug\netcoreapp2.0\Middle_app.runtimeconfig.dev.json
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\bin\Debug\netcoreapp2.0\Middle_app.dll
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\bin\Debug\netcoreapp2.0\Middle_app.pdb
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\obj\Debug\netcoreapp2.0\Middle_app.csprojAssemblyReference.cache
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\obj\Debug\netcoreapp2.0\Middle_app.csproj.CoreCompileInputs.cache
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\obj\Debug\netcoreapp2.0\Middle_app.AssemblyInfoInputs.cache
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\obj\Debug\netcoreapp2.0\Middle_app.AssemblyInfo.cs
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\obj\Debug\netcoreapp2.0\Middle_app.dll
+C:\Users\codeParane\Desktop\DB2DB-WebApiMiddleConsole\Middle_app\obj\Debug\netcoreapp2.0\Middle_app.pdb
